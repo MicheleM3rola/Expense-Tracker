@@ -17,4 +17,4 @@ a trailer video whenever clicked on a show or movie if it is available in the da
 
 ## 🚀🚀 Demo
 
-<a href="https://netflix-clone-39658.web.app/">Deployed</a> 
+<a href="https://trusting-rosalind-5dcb22.netlify.app/">Deployed</a> 
