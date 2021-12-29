@@ -2,8 +2,7 @@
 
 <img src="https://res.cloudinary.com/mike88/image/upload/v1640767077/Expense_Tracker_uylo31.jpg" title="Netflix Clone" alt="Netflix Clone" width="40%"/>
 
-The Expenses Tracker App is a fullstack application (MERN), the backend is developed with Node.js and Mongo DB atlas to store the transactions History, and the UI is developed with React and CSS3 using Context api as state managment.
-
+The Expenses Tracker App is a fullstack application (MERN), the backend is developed with Node.js and Mongo DB atlas to store the transactions History, and the UI is developed with React and CSS3 using Context api as state managment, all deployed on Netlify.
 
 
 
